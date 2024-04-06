@@ -24,6 +24,7 @@
     margin-top: 180px;
 }
 .small-circle{
+    display: none;
     width: 120px;
     height: 120px;
     position: absolute;
@@ -33,6 +34,7 @@
     background: rgba(255, 0, 187, 0.694);
 }
 .big-circle{
+    display: none;
     width: 150px;
     height: 150px;
     background: rgb(235, 208, 173);
