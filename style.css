@@ -59,21 +59,10 @@
 @media screen and (max-width: 600px) {
     
 .small-circle{
-    width: 120px;
-    height: 120px;
-    position: absolute;
-    border-radius: 80px;
-    margin-left: 320px;
-    margin-top: 80px;
-    background: rgba(255, 0, 187, 0.694);
+    display: none;
 }
 .big-circle{
-    width: 150px;
-    height: 150px;
-    background: rgb(235, 208, 173);
-    border-top-left-radius: 220px;
-    margin-top: 138px;
-    margin-left: 333px;
+    display: none;
 
 }
 .bg-form{
